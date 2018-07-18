@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 18/07/2018 15:54:23.
+     1>Proyecto "D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\max_subarray_cpp\max_subarray_cpp.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\max_subarray_cpp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt max_subarray_cpp.cpp
+         max_subarray_cpp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\Debug\max_subarray_cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\Debug\max_subarray_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\Debug\max_subarray_cpp.lib" /MACHINE:X86 Debug\max_subarray_cpp.obj
+         Debug\stdafx.obj
+         max_subarray_cpp.vcxproj -> D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\Debug\max_subarray_cpp.exe
+     1>Compilación del proyecto terminada "D:\MESTRADO USP\PROJETOS\SANT_DIGITAL\max_subarray_cpp\max_subarray_cpp\max_subarray_cpp.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.84
