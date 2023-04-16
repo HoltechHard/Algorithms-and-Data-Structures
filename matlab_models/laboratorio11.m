@@ -1,3 +1,0 @@
-% Laboratorio 11
-%
-%
